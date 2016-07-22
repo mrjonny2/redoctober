@@ -2,3 +2,5 @@ bin/
 pkg/
 src/code.google.com/
 *~
+cert/
+cert/*
