@@ -14,8 +14,6 @@ after_success:
 notifications:
   email:
     recipients:
-      - nick@cloudflare.com
-      - kyle@cloudflare.com
-      - zi@cloudflare.com
+      - jonnyflowers@hecaton.xyz
     on_success: never
     on_failure: change
